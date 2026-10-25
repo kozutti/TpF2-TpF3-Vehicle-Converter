@@ -1,0 +1,4 @@
+tkinterdnd2==0.4.3
+wasmtime==49.0.0
+Pillow==12.3.0
+lupa==2.8
